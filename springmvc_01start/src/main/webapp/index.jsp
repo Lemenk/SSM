@@ -1,0 +1,18 @@
+<%--
+  User: Lemenk
+  Blog: www.lemenk.top
+  Date: 2020/2/13 14:08
+--%>
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<html>
+<head>
+    <title>主页面</title>
+</head>
+<body>
+
+    <h3>入门程序</h3>
+    <%--<a href="hello">入门程序</a>--%>
+
+    <a href="testRequestMapping">RequestMapping注解</a>
+</body>
+</html>
